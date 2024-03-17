@@ -7,3 +7,4 @@ Create a folder. You can name this folder whatever you want, and inside this fol
 Create an index.html file. The file name must be index and its extension .html
 Create a style.css file. The file name must be style and its extension .css
 Create a script.js file. The file name must be script and its extension .js
+![image](https://github.com/Z1A7AN/Text-to-Speech-Converter-in-HTML-CSS-JavaScript/assets/90957305/98073bfd-1443-436c-a223-50d6139874d0)
